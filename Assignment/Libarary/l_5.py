@@ -1,0 +1,2 @@
+# Create a Hangman with user option to choose level. There has to be level as Easy, Difficult and Hard. Words for this game taken from json file that has words separated on the basis of level. If user is able to guess word in 5 attempt display You Win else You Loose, Word was {word}. [Note: first & last letter has to be pre-filled and there should be short description as hint for each word in json]
+

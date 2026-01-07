@@ -1,0 +1,16 @@
+
+import json 
+// candidates = []
+
+// winner = 0
+with open("c1.json", "r",encording="utf-8") as file_object:
+    file_content = json.load(file_object)
+
+print(file_content)
+// for candidate in candidates:
+//     if candidate["TotalVoteReceived"] > winner["TotalVoteReceived"]:
+//         winner = candidate
+
+// print("Winner Name:", winner["CandidateName"])
+// print("Party:", winner["PoliticalPartyName"])
+// print("Total Votes:", winner["TotalVoteReceived"])
